@@ -1,5 +1,9 @@
 # Todo-Django-React-App
 
-##### this is a simple ToDo App created Using Django Backend & React Frontend...
+#### This is a simple ToDo App created Using Django Backend & React Frontend...
 
-##### access the live project at https://django-todo-amz42.netlify.app/
+#### Access the live project at https://django-todo-amz42.netlify.app/
+
+##### Features:
+You can easily create, edit & delete tasks.
+Completed & pending tasks are displayed separately in the app.
