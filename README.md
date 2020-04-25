@@ -5,5 +5,7 @@
 #### Access the live project at https://django-todo-amz42.netlify.app/
 
 ##### Features:
-You can easily create, edit & delete tasks.
-Completed & pending tasks are displayed separately in the app.
+    You can easily create, edit & delete tasks.
+    Completed & pending tasks are displayed separately in the app.
+
+#### Note: Some Code is kept hidden/incomplete in this repository for security purposes
